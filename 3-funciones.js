@@ -9,7 +9,7 @@
 // 1.2 Crea una función llamada `multiplicarPorDos` 
 //que tome un número como parámetro y devuelva el doble de ese número.
     function multiplicarPorDos(numero){
-        let doble= numero ** 2
+        let doble= numero * 2
         return doble
     }
 
